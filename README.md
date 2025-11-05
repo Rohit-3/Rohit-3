@@ -5,17 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit-3" alt="rohit-3" /></a> </p>
 
-- 🔭 I’m currently working on [To-do-list](https://rohit-3.github.io/To-do-list/)
-
-- 🌱 I’m currently learning **Web Development**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Rohit-3](https://github.com/Rohit-3)
 
 - 💬 Ask me about **Html,Css,Javascript**
 
 - 📫 How to reach me **rs2281708@gmail.com**
 
-- 📄 Know about my experiences [https://rohit-3.github.io/Pure-html-cv/](https://rohit-3.github.io/Pure-html-cv/)
+- 📄 Know about my experiences [[https://www.linkedin.com/in/rohitkumar10/](https://www.linkedin.com/in/rohitkumar10/)
 
 - ⚡ Fun fact **I like gaming while coding And while gaming i like coding.**
 
