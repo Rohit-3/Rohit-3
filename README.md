@@ -30,7 +30,7 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rohit-3&show_icons=true&theme=tokyonight" />
   <br/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-3&theme=tokyonight" />
+ <img src="https://github-readme-streak-stats-eight.vercel.app?user=Rohit-3&theme=tokyonight&hide_border=false" />
   <br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rohit-3&layout=compact&theme=tokyonight" />
 </p>
