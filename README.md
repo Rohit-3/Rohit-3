@@ -16,7 +16,7 @@
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rohit-3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy-git-master.vercel.app/?username=Rohit-3&theme=tokyonight&no-frame=true)
 
 
 # 💻 Tech Stack:
