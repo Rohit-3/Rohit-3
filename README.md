@@ -28,11 +28,11 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohit-3&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rohit-3&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Rohit-3&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=Rohit-3&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-3&theme=tokyonight&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rohit-3&layout=compact&theme=tokyonight" />
 </p>
 
 
