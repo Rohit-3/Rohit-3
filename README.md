@@ -1,3 +1,7 @@
+<h1 align="center">Hi, I'm Rohit Kumar 🚀</h1>
+<h3 align="center">Backend-Focused Full Stack Developer | Multi-Tenant Architect | DevOps Enthusiast</h3>
+
+
 # 💫 About Me:
 🔭 Currently building scalable SaaS systems<br>🏗️ Experienced in Multi-tenant Architecture<br>🧩 Strong in backend system design & API development<br>⚙️ Comfortable with DevOps & containerized environments<br>📊 I also work with data automation & business analytics tools
 
