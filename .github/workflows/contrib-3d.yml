@@ -1,0 +1,29 @@
+name: generate 3d contribution graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: generate 3d graph
+        uses: platane/github-profile-3d-contrib@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          user_name: Rohit-3
+
+      - name: commit & push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "update 3d graph"
+          git push
